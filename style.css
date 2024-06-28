@@ -463,7 +463,7 @@ h1 {
 
   .cta-btn-con button {
     width: var(--btn-width-cellphn) !important;
-    margin-right: 1.5rem !important;
+    margin-right: 1.2rem !important;
   }
 
   .cta-btn-con button .fa-solid{
