@@ -458,7 +458,7 @@ h1 {
 @media (max-width: 480px) {
 
   section .section {
-    grid-template-rows: 1fr repeat(5, 1fr) 2fr !important;
+    grid-template-rows: 40px repeat(5, 1fr) 2fr !important;
   }
 
   .cta-btn-con button {
