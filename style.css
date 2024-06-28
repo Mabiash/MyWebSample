@@ -457,9 +457,9 @@ h1 {
 /* 480 media screen ======================================== */
 @media (max-width: 480px) {
 
-  /* section .section {
+  section .section {
     grid-template-rows: 1fr repeat(5, 1fr) 2fr !important;
-  } */
+  }
 
   .cta-btn-con button {
     width: var(--btn-width-cellphn) !important;
